@@ -38,6 +38,7 @@ The objective of this assignment is to set up a CI/CD pipeline for a C# API that
 ### Bonus Points (Optional)
 - Implement a rollback mechanism in your CD pipeline in case of deployment failures.
 - Use infrastructure as code (IaC) tools like Terraform or AWS CloudFormation to provision the staging and production environments.
+- Integrate a feature toggle mechanism into the application to control the availability of a specific API endpoint dynamically without needing to redeploy the application. 
 
 ## Submission
 Share the link to your GitHub or GitLab repository containing the C# API for the Todo application and the configured CI/CD pipeline. Include any necessary instructions or documentation in the repository.
